@@ -37,25 +37,25 @@ h1, h2 {
 
 @media (max-width: 767px) {
   h1, h2 {
-    font-size: calc(18px + 20.4 * ((100vw - 320px) / 1280));
+    font-size: calc(18px + 10.2 * ((100vw - 320px) / 1280));
   }
 }
 
 @media (min-width: 767px) {
   h1, h2 {
-    font-size: calc(18px + 12 * (110vw / 1280));
+    font-size: calc(18px + 6 * (110vw / 1280));
   }
 }
 
 @media (max-width: 767px) {
   h1 {
-    font-size: calc(20px + 23.8 * ((100vw - 320px) / 1280));
+    font-size: calc(20px + 13.6 * ((100vw - 320px) / 1280));
   }
 }
 
 @media (min-width: 767px) {
   h1 {
-    font-size: calc(20px + 14 * (110vw / 1280));
+    font-size: calc(20px + 8 * (110vw / 1280));
   }
 }
 
@@ -65,13 +65,13 @@ p {
 
 @media (max-width: 767px) {
   p {
-    font-size: calc(16px + 17 * ((100vw - 320px) / 1280));
+    font-size: calc(16px + 6.8 * ((100vw - 320px) / 1280));
   }
 }
 
 @media (min-width: 767px) {
   p {
-    font-size: calc(16px + 10 * (110vw / 1280));
+    font-size: calc(16px + 4 * (110vw / 1280));
   }
 }
 
@@ -83,13 +83,13 @@ span {
 
 @media (max-width: 767px) {
   span {
-    font-size: calc(16px + 17 * ((100vw - 320px) / 1280));
+    font-size: calc(16px + 6.8 * ((100vw - 320px) / 1280));
   }
 }
 
 @media (min-width: 767px) {
   span {
-    font-size: calc(16px + 10 * (110vw / 1280));
+    font-size: calc(16px + 4 * (110vw / 1280));
   }
 }
 
