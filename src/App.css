@@ -124,8 +124,8 @@ a {
   border-radius: 10px;
   color: #fff;
   text-decoration: none;
-  box-shadow: 1px 1px 10px #fff;
-  text-shadow: 1px 1px 5px #555454;
+  box-shadow: 1px 1px 7px #fff;
+  text-shadow: 1px 1px 3px #555454;
   font-family: 'Merriweather', serif;
   transition: all 0.5s ease 0s;
 }
