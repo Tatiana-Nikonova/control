@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Tatiana-Nikonova/control/static/css/main.04b1e690.css",
-    "main.js": "/Tatiana-Nikonova/control/static/js/main.0364dc6c.js",
+    "main.css": "/Tatiana-Nikonova/control/static/css/main.1f304e7a.css",
+    "main.js": "/Tatiana-Nikonova/control/static/js/main.f142666a.js",
     "index.html": "/Tatiana-Nikonova/control/index.html",
-    "main.04b1e690.css.map": "/Tatiana-Nikonova/control/static/css/main.04b1e690.css.map",
-    "main.0364dc6c.js.map": "/Tatiana-Nikonova/control/static/js/main.0364dc6c.js.map"
+    "main.1f304e7a.css.map": "/Tatiana-Nikonova/control/static/css/main.1f304e7a.css.map",
+    "main.f142666a.js.map": "/Tatiana-Nikonova/control/static/js/main.f142666a.js.map"
   },
   "entrypoints": [
-    "static/css/main.04b1e690.css",
-    "static/js/main.0364dc6c.js"
+    "static/css/main.1f304e7a.css",
+    "static/js/main.f142666a.js"
   ]
 }

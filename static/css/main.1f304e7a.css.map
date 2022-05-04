@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.1f304e7a.css","mappings":"AAEC,kBACA,YACA,CAEA,iBACA,eACA","sources":["App.css"],"sourcesContent":["\n \n main > :first-child {\n\tmargin-top: 0;\n }\n \n main > :last-child {\n\tmargin-bottom: 0;\n }\n "],"names":[],"sourceRoot":""}
