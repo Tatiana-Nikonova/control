@@ -1,19 +1,37 @@
 {
   "files": {
-    "main.css": "/control/static/css/main.98089d01.css",
-    "main.js": "/control/static/js/main.0fbf10b5.js",
+    "main.css": "/control/static/css/main.c8e97078.css",
+    "main.js": "/control/static/js/main.739ea8b8.js",
+    "static/media/Grickievich Nina.jpg": "/control/static/media/Grickievich Nina.7863fa79f59cb6c49b92.jpg",
+    "static/media/ikona ubiennyh mladencev.jpg": "/control/static/media/ikona ubiennyh mladencev.3486632af82a7cc7374f.jpg",
+    "static/media/Grickievich Aleksandr.jpg": "/control/static/media/Grickievich Aleksandr.b1e440e0cb20e16918d3.jpg",
+    "static/media/Mihalchenia Maria.jpg": "/control/static/media/Mihalchenia Maria.1efc91b6e9ade09d18e2.jpg",
+    "static/media/Mihalchenia Tadeush.jpg": "/control/static/media/Mihalchenia Tadeush.a7c181d7993ee5efa695.jpg",
+    "static/media/Puschakov Vasilij.jpg": "/control/static/media/Puschakov Vasilij.2cabe5e13e5a61349636.jpg",
+    "static/media/Grickievich Marianna.jpg": "/control/static/media/Grickievich Marianna.606c6f633399331e28a3.jpg",
     "static/media/Car.jpg": "/control/static/media/Car.41a1708db5a3d3e72654.jpg",
+    "static/media/Grickievich Boleslav.jpg": "/control/static/media/Grickievich Boleslav.749a524b0753c36b38d9.jpg",
+    "static/media/Hobian Francysk.jpg": "/control/static/media/Hobian Francysk.2a08c87596e267089eef.jpg",
+    "static/media/Lojko Francysk.jpg": "/control/static/media/Lojko Francysk.10161fce1c6a7b3db9d6.jpg",
+    "static/media/Grickievich Piotr.jpg": "/control/static/media/Grickievich Piotr.70952992235e90ed0cbb.jpg",
+    "static/media/Lojko Veronika.jpg": "/control/static/media/Lojko Veronika.f458c378e6ecfd0bc36b.jpg",
+    "static/media/Pushchakova Lidia.jpg": "/control/static/media/Pushchakova Lidia.191c635b80390290c6f5.jpg",
+    "static/media/Pushchakov Andrei.jpg": "/control/static/media/Pushchakov Andrei.0c3c06d537992054a2f2.jpg",
     "static/media/Vasilij.jpg": "/control/static/media/Vasilij.021401dd88341227a94f.jpg",
+    "static/media/Mikonovich Vicentij.jpg": "/control/static/media/Mikonovich Vicentij.83b638a1be9c6b227bc2.jpg",
+    "static/media/images.jpg": "/control/static/media/images.3ccb3cf7d6993857cb7f.jpg",
+    "static/media/Pushchakov Sergej.jpg": "/control/static/media/Pushchakov Sergej.6263c1222f7519e969e3.jpg",
     "static/media/Serafim.jpg": "/control/static/media/Serafim.f49f3645c3a5816c1322.jpg",
     "static/media/Valentina.jpg": "/control/static/media/Valentina.9ffbd7127b4daaabc188.jpg",
     "static/media/otrok.jpg": "/control/static/media/otrok.11267149e4944d693096.jpg",
+    "static/media/Grickievich Eduard.jpg": "/control/static/media/Grickievich Eduard.d9189ab281a8a0a1e6da.jpg",
     "static/media/Andrej.jpg": "/control/static/media/Andrej.dba0fe55ee2f9684d870.jpg",
     "index.html": "/control/index.html",
-    "main.98089d01.css.map": "/control/static/css/main.98089d01.css.map",
-    "main.0fbf10b5.js.map": "/control/static/js/main.0fbf10b5.js.map"
+    "main.c8e97078.css.map": "/control/static/css/main.c8e97078.css.map",
+    "main.739ea8b8.js.map": "/control/static/js/main.739ea8b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.98089d01.css",
-    "static/js/main.0fbf10b5.js"
+    "static/css/main.c8e97078.css",
+    "static/js/main.739ea8b8.js"
   ]
 }
