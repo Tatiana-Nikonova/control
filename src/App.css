@@ -1,10 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Open+Sans:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@700&display=swap");
+html {
+  min-height: 100%;
+}
 
- 
- main > :first-child {
-	margin-top: 0;
- }
- 
- main > :last-child {
-	margin-bottom: 0;
- }
- 
+body {
+  min-height: 100%;
+  background-color: #f0b7d5;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.wrap {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header .header__icon img {
+  max-width: 100%;
+  box-shadow: 1px 1px 20px #fff;
+}
+
+h1, h2 {
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  text-shadow: 1px 1px 5px #e3dddd;
+}
+
+@media (max-width: 767px) {
+  h1, h2 {
+    font-size: calc(18px + 20.4 * ((100vw - 320px) / 1280));
+  }
+}
+
+@media (min-width: 767px) {
+  h1, h2 {
+    font-size: calc(18px + 12 * (110vw / 1280));
+  }
+}
+
+@media (max-width: 767px) {
+  h1 {
+    font-size: calc(20px + 23.8 * ((100vw - 320px) / 1280));
+  }
+}
+
+@media (min-width: 767px) {
+  h1 {
+    font-size: calc(20px + 14 * (110vw / 1280));
+  }
+}
+
+p {
+  text-align: justify;
+}
+
+@media (max-width: 767px) {
+  p {
+    font-size: calc(16px + 17 * ((100vw - 320px) / 1280));
+  }
+}
+
+@media (min-width: 767px) {
+  p {
+    font-size: calc(16px + 10 * (110vw / 1280));
+  }
+}
+
+span {
+  font-style: italic;
+  color: #c54e4e;
+  margin-left: 20px;
+}
+
+@media (max-width: 767px) {
+  span {
+    font-size: calc(16px + 17 * ((100vw - 320px) / 1280));
+  }
+}
+
+@media (min-width: 767px) {
+  span {
+    font-size: calc(16px + 10 * (110vw / 1280));
+  }
+}
+
+nav {
+  margin: 20px 0;
+}
+
+a {
+  display: inline-flex;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  color: #fff;
+  text-decoration: none;
+  box-shadow: 1px 1px 10px #fff;
+  text-shadow: 1px 1px 5px #555454;
+  font-family: 'Merriweather', serif;
+  transition: all 0.5s ease 0s;
+}
+
+@media (max-width: 767px) {
+  a {
+    font-size: calc(10px + 10.2 * ((100vw - 320px) / 1280));
+  }
+}
+
+@media (min-width: 767px) {
+  a {
+    font-size: calc(10px + 6 * (110vw / 1280));
+  }
+}
+
+a:hover, a:focus {
+  background-color: #f1a5ce;
+  text-shadow: 1px 1px 5px #272727;
+  transition: all 0.5s ease 0s;
+}

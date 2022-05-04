@@ -1,15 +1,33 @@
 import * as React from 'react';
 import { Outlet, Link } from 'react-router-dom';
+import otrok from './img/otrok.jpg';
+import valentina from './img/Valentina.jpg';
+import andrej from './img/Andrej.jpg';
+import vasilij from './img/Vasilij.jpg';
 
 export default function App() {
   return (
-    <div>
-      <h1>Bookkeeper</h1>
-      <nav style={{ borderBottom: 'solid 1px', paddingBottom: '1rem' }}>
-        <Link to="/invoices">Invoices</Link> |{' '}
-        <Link to="/expenses">Expenses</Link>
-      </nav>
-      <Outlet />
-    </div>
+	<div className="wrap">
+	<header className="header">
+		<div className="header__icon">
+			<img src={andrej} />
+		</div>
+		<div className="header__icon">
+			<img src={otrok} />
+		</div>
+		<div className="header__icon">
+			<img src={valentina} />
+		</div>
+
+		<div className="header__icon">
+			<img src={vasilij} />
+		</div>
+	</header>
+	<nav>
+		<Link to="/invoices">Молитвы</Link> 
+		<Link to="/expenses">Помяник</Link> 
+	</nav>
+	<Outlet />
+</div>
   );
 }
