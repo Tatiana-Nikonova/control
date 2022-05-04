@@ -26,6 +26,7 @@ body {
 	background-color: rgb(240, 183, 213);
 	font-family: 'Open Sans', sans-serif;
 	margin: 0;
+	box-sizing: border-box;
 }
 .wrap {
 	max-width: 1280px;
@@ -78,8 +79,6 @@ span {
 	}
 }
 
-
-
 a {
 	display: inline-flex;
 	padding: 10px;
@@ -104,3 +103,30 @@ main {
 		padding: 0px; 
 	}
 }
+
+
+	
+.foto-person {		
+		
+	.foto-item {
+		display: flex;
+		align-items: center;
+		border-bottom: 1px solid #fff;
+		.foto-text {			
+			margin: 0 0 0 20px;
+			@include adaptiveFont(36, 20);
+		}
+		.foto {				
+			width: 8%;	margin: 5px;	
+			@include adaptiveFont(30, 20);
+			img {
+				
+				max-width: 100%;		
+			}
+		}
+	}
+	
+	
+}
+	
+

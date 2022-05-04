@@ -12,6 +12,7 @@ body {
   background-color: #f0b7d5;
   font-family: 'Open Sans', sans-serif;
   margin: 0;
+  box-sizing: border-box;
 }
 
 .wrap {
@@ -156,4 +157,47 @@ main {
   main {
     padding: 0px;
   }
+}
+
+.foto-person .foto-item {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #fff;
+}
+
+.foto-person .foto-item .foto-text {
+  margin: 0 0 0 20px;
+}
+
+@media (max-width: 767px) {
+  .foto-person .foto-item .foto-text {
+    font-size: calc(20px + 27.2 * ((100vw - 320px) / 1280));
+  }
+}
+
+@media (min-width: 767px) {
+  .foto-person .foto-item .foto-text {
+    font-size: calc(20px + 16 * (110vw / 1280));
+  }
+}
+
+.foto-person .foto-item .foto {
+  width: 8%;
+  margin: 5px;
+}
+
+@media (max-width: 767px) {
+  .foto-person .foto-item .foto {
+    font-size: calc(20px + 17 * ((100vw - 320px) / 1280));
+  }
+}
+
+@media (min-width: 767px) {
+  .foto-person .foto-item .foto {
+    font-size: calc(20px + 10 * (110vw / 1280));
+  }
+}
+
+.foto-person .foto-item .foto img {
+  max-width: 100%;
 }
