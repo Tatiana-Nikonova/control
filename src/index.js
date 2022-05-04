@@ -5,9 +5,9 @@ import App from './App';
 import Expenses from './routes/expenses';
 import Invoices from './routes/invoices';
 import Invoice from './routes/invoice';
-import './main.css';
+import './App.css';
 
-const rootElement = document.getElementById('app');
+const rootElement = document.getElementById('root');
 ReactDOM.render(
   <BrowserRouter>
     <Routes>
