@@ -18,8 +18,8 @@ export default function Invoices() {
   let [searchParams, setSearchParams] = useSearchParams({ replace: true });
 
   return (
-    <div style={{ display: 'flex' }}>
-      <nav style={{ borderRight: 'solid 1px', padding: '1rem' }}>
+    <div className="box_navigation">
+      <nav className="box-nav">
         <input
           value={searchParams.get('filter') || ''}
           onChange={(event) => {

@@ -4,11 +4,16 @@ import otrok from './img/otrok.jpg';
 import valentina from './img/Valentina.jpg';
 import andrej from './img/Andrej.jpg';
 import vasilij from './img/Vasilij.jpg';
+import serafim from './img/Serafim.jpg';
+import car from './img/Car.jpg';
 
 export default function App() {
   return (
 	<div className="wrap">
 	<header className="header">
+		<div className="header__icon">
+			<img src={car} />
+		</div>
 		<div className="header__icon">
 			<img src={andrej} />
 		</div>
@@ -18,9 +23,11 @@ export default function App() {
 		<div className="header__icon">
 			<img src={valentina} />
 		</div>
-
 		<div className="header__icon">
 			<img src={vasilij} />
+		</div>
+		<div className="header__icon">
+			<img src={serafim} />
 		</div>
 	</header>
 	<nav>

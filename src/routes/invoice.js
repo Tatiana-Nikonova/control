@@ -9,10 +9,8 @@ export default function Invoice() {
   let invoice = getInvoice(parseInt(params.invoiceId, 10));
 
   return (
-    <main style={{ padding: '1rem' }}>   
-		
-       {invoice.content}      
-      
+    <main>   		
+       {invoice.content}        
     </main>
   );
 }
