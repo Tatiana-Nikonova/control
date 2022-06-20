@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/control/static/css/main.c8e97078.css",
-    "main.js": "/control/static/js/main.739ea8b8.js",
+    "main.css": "/control/static/css/main.8ebea9c1.css",
+    "main.js": "/control/static/js/main.520f4049.js",
     "static/media/Grickievich Nina.jpg": "/control/static/media/Grickievich Nina.7863fa79f59cb6c49b92.jpg",
     "static/media/ikona ubiennyh mladencev.jpg": "/control/static/media/ikona ubiennyh mladencev.3486632af82a7cc7374f.jpg",
     "static/media/Grickievich Aleksandr.jpg": "/control/static/media/Grickievich Aleksandr.b1e440e0cb20e16918d3.jpg",
@@ -27,11 +27,11 @@
     "static/media/Grickievich Eduard.jpg": "/control/static/media/Grickievich Eduard.d9189ab281a8a0a1e6da.jpg",
     "static/media/Andrej.jpg": "/control/static/media/Andrej.dba0fe55ee2f9684d870.jpg",
     "index.html": "/control/index.html",
-    "main.c8e97078.css.map": "/control/static/css/main.c8e97078.css.map",
-    "main.739ea8b8.js.map": "/control/static/js/main.739ea8b8.js.map"
+    "main.8ebea9c1.css.map": "/control/static/css/main.8ebea9c1.css.map",
+    "main.520f4049.js.map": "/control/static/js/main.520f4049.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8e97078.css",
-    "static/js/main.739ea8b8.js"
+    "static/css/main.8ebea9c1.css",
+    "static/js/main.520f4049.js"
   ]
 }
