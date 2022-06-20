@@ -54,7 +54,7 @@ function Deceased() {
 			<div className="foto-item"><img className='foto' src={eduard} /><p className='foto-text'>Эдуарда<span>Грицкевич Эдуард Александрович</span></p></div>
 			<div className="foto-item"><img className='foto' src={vanda} /><p className='foto-text'>Ванду<span>Грицкевич Ванда Александровна</span></p></div>
 			<div className="foto-item"><img className='foto' src={vera} /><p className='foto-text'>Веронику<span>Лойко Вероника Александровна</span></p></div>
-			<div className="foto-item"><img className='foto' src={frank} /><p className='foto-text'>Франциска<span>Лойко Франц</span></p></div>
+			<div className="foto-item"><img className='foto' src={frank} /><p className='foto-text'>Франца<span>Лойко Франц</span></p></div>
 			<div className="foto-item"><img className='foto' src={stas} /><p className='foto-text'>Станислава<span>Лойко Станислав Францевич</span></p></div>
 			<div className="foto-item"><img className='foto' src={mari} /><p className='foto-text'>Марию<span>Лойко Мария Францевна</span></p></div>
 			
