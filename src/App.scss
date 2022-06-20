@@ -60,7 +60,7 @@ h1{
 }
 p {
 	text-align: justify;
-	@include adaptiveFont(20, 16);	
+	@include adaptiveFont(22, 18);	
 }
 span {
 	font-style: italic;

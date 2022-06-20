@@ -77,13 +77,13 @@ p {
 
 @media (max-width: 767px) {
   p {
-    font-size: calc(16px + 6.8 * ((100vw - 320px) / 1280));
+    font-size: calc(18px + 6.8 * ((100vw - 320px) / 1280));
   }
 }
 
 @media (min-width: 767px) {
   p {
-    font-size: calc(16px + 4 * (110vw / 1280));
+    font-size: calc(18px + 4 * (110vw / 1280));
   }
 }
 
